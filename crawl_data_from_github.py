@@ -9,8 +9,8 @@ import time
 from tqdm import tqdm
 
 
-OAUTH_TOKEN = "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"
-USERNAME = "arti32lehtonen"
+OAUTH_TOKEN = "<YOUR OATH TOKEN HERE>"
+USERNAME = "<YOUR USERNAME HERE>"
 MAX_THREADS = 5
 
 QUERY_TIME = time.time()
